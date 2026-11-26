@@ -99,8 +99,8 @@ Points follow the standard F1 system: 25, 18, 15, 12, 10, 8, 6, 4, 2, 1.
 | 4 | Ferrari | 360 |
 | 5 | Williams | 124 |
 
-![Drivers standings](screenshots/drivers_standings.png)
-![Teams standings](screenshots/teams_standings.png)
+![Drivers standings](drivers_standings.png)
+![Teams standings](teams_standings.png)
 
 > ℹ️ The totals differ slightly from the official 2025 standings, because the database stores only Grand Prix results — **sprint races are not included**.
 
